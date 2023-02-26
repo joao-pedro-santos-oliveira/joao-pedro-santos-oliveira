@@ -1,12 +1,12 @@
 ## 👋Olá, meu nome é João Oliveira!
 
-19 anos 
+🎂19 anos 
 <br>
-Desenvolvedor full-stack
+🤖Desenvolvedor full-stack
 <br>
-Javascript, React, AngularJS
+💡Javascript, React, AngularJS
 <br>
-Node, Java
+🚀Node, Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-santos-oliveira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/joao-pedro-santos-oliveira/github-readme-stats)
  
