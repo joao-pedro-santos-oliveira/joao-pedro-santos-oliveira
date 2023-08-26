@@ -7,6 +7,8 @@
 💡Javascript, React, AngularJS
 <br>
 🚀Node, Java
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-santos-oliveira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/joao-pedro-santos-oliveira/github-readme-stats)
  
 <div> 
   <a href="https://www.instagram.com/joao.oliveirasz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
