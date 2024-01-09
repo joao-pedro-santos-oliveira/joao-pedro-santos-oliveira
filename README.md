@@ -1,12 +1,12 @@
 ## 👋Olá, meu nome é João Oliveira!
 
-🎂19 anos 
+🎂20 anos 
 <br>
-🤖Desenvolvedor full-stack
+🤖Desenvolvedor back-end
 <br>
-💡Javascript, React, AngularJS
+💡Java, Node
 <br>
-🚀Node, Java
+🚀AngularJS
 <div> 
   <a href="https://www.instagram.com/joao.oliveirasz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
   <a href = "mailto:joaopedro.santosoliveira2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
